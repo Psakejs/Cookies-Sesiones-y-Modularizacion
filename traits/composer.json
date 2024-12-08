@@ -1,0 +1,16 @@
+{
+    "name": "usuario/traits",
+    "license": "MIT",
+    "autoload":{
+        "psr-4":{
+            "App\\":"app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Psakejs",
+            "email": "patpampam4@gmail.com"
+        }
+    ],
+    "require": {}
+}
